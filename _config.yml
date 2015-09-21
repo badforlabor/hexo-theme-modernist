@@ -1,12 +1,17 @@
 menu:
   Home: /
   Archives: /archives
-rss: /atom.xml
+rss:
+
+#widgets: 
+#- tag
+
+#language: zh-CN
 
 archive_date_format: MMM DD
 fancybox: true
 
-duoshuo_shortname:
+duoshuo_shortname: badforlabor
 
 google_analytics:
 favicon: /favicon.ico
